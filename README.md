@@ -2,5 +2,5 @@
 ### `npm install`
 
 <div align="center">
-    <img src="/img/img1.png" width="800px"</img> 
+    <img src="/img/img1.PNG" width="800px"</img> 
 </div>
